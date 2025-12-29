@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">A passionate Java developer exploring the vast galaxies of software development. <br>With my spacecraft set to Java, I navigate through the code cosmos, crafting elegant solutions and pushing the boundaries of what's possible.</p>
+<p align="left">A passionate engineer exploring the vast galaxies of software development. <br>With my spacecraft set to AI, I navigate through the code cosmos, crafting elegant solutions and pushing the boundaries of what's possible.</p>
 
 ###
 
